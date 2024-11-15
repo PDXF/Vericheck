@@ -109,8 +109,4 @@ If you encounter any issues while using VeriCheck, please submit an issue on the
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact us at: 
-- Email: **your-email@example.com**
-- GitHub: [YourUsername](https://github.com/yourusername)
-
 Enjoy using **VeriCheck** to make your data validation process easier and more efficient!
